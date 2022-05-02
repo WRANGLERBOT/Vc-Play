@@ -45,7 +45,7 @@ async def start_(client: Client, message: Message):
 ~ Spam, Bigspam, Raid and LoveRaid
 ~ Audio And Video Download from YouTube
 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
+Powered By [ᴡʀᴀɴɢʟᴇʀ ʙᴏᴛꜱ](t.me/Am_I_Earth) ...
 """,
     reply_markup=InlineKeyboardMarkup(
             [
@@ -56,10 +56,10 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Am_I_Earth"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/WRANGLERBOT/Vc-Play"
                     )
                 ],
                 [
@@ -101,7 +101,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/WRANGLERBOT/Vc-Play")
                 ]
             ]
         ),
